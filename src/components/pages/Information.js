@@ -110,7 +110,7 @@ const Information = () => {
           <h2>Predictive AI</h2>
           <p>Leverage the AI algorithms to detect occurrence of error.</p>
         </div>
-        {/* <div class="card-stats card3">
+         {/* <div class="card-stats card3">
           <div class="stat">
             <div class="value">5<sup>m</sup></div>
             <div class="type">read</div>
@@ -123,7 +123,7 @@ const Information = () => {
             <div class="value">151</div>
             <div class="type">comments</div>
           </div>
-        </div> */}
+        </div>  */}
       </div>
 
       <div class="card">

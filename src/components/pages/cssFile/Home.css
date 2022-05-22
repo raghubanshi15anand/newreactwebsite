@@ -1,0 +1,5 @@
+.footerInformation {
+    display: inline-block;
+    overflow: visible;
+    width: -webkit-fill-available;
+}
