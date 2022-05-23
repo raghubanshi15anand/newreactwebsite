@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/newreactwebsite/static/css/main.9b76c41c.chunk.css",
+    "main.js": "/newreactwebsite/static/js/main.bb6363e0.chunk.js",
+    "main.js.map": "/newreactwebsite/static/js/main.bb6363e0.chunk.js.map",
+    "runtime-main.js": "/newreactwebsite/static/js/runtime-main.26c506b8.js",
+    "runtime-main.js.map": "/newreactwebsite/static/js/runtime-main.26c506b8.js.map",
+    "static/css/2.f7375132.chunk.css": "/newreactwebsite/static/css/2.f7375132.chunk.css",
+    "static/js/2.5c9724e6.chunk.js": "/newreactwebsite/static/js/2.5c9724e6.chunk.js",
+    "static/js/2.5c9724e6.chunk.js.map": "/newreactwebsite/static/js/2.5c9724e6.chunk.js.map",
+    "index.html": "/newreactwebsite/index.html",
+    "precache-manifest.d4805059d8f21e5e1d1d053b51a64f2d.js": "/newreactwebsite/precache-manifest.d4805059d8f21e5e1d1d053b51a64f2d.js",
+    "service-worker.js": "/newreactwebsite/service-worker.js",
+    "static/css/2.f7375132.chunk.css.map": "/newreactwebsite/static/css/2.f7375132.chunk.css.map",
+    "static/css/main.9b76c41c.chunk.css.map": "/newreactwebsite/static/css/main.9b76c41c.chunk.css.map",
+    "static/js/2.5c9724e6.chunk.js.LICENSE.txt": "/newreactwebsite/static/js/2.5c9724e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26c506b8.js",
+    "static/css/2.f7375132.chunk.css",
+    "static/js/2.5c9724e6.chunk.js",
+    "static/css/main.9b76c41c.chunk.css",
+    "static/js/main.bb6363e0.chunk.js"
+  ]
+}
