@@ -10,7 +10,6 @@ const Information = () => {
   return (
     <div>
     
-
     <div class="card">
       <div class="card-image"></div>
       <div class="card-text">
