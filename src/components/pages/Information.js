@@ -81,7 +81,7 @@ const Information = () => {
       </div>
 
       <div class="card">
-        <div class="card-image card3"></div>
+        <div class="card-image card4"></div>
         <div class="card-text card3">
           <span class="date"></span>
           <h2> Low Cost </h2>
@@ -104,7 +104,7 @@ const Information = () => {
       </div>
 
       <div class="card">
-        <div class="card-image card3"></div>
+        <div class="card-image card5"></div>
         <div class="card-text card3">
           <span class="date"></span>
           <h2>Predictive AI</h2>
@@ -127,7 +127,7 @@ const Information = () => {
       </div>
 
       <div class="card">
-        <div class="card-image card3"></div>
+        <div class="card-image card6"></div>
         <div class="card-text card3">
           <span class="date"></span>
           <h2>Multiple Asset monitoring</h2>
